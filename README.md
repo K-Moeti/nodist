@@ -8,7 +8,7 @@
 
 | Splash Sequence | Workspace & Metrics | Task Input |
 |---|---|---|
-| *(Add Splash Screenshot)* | *(Add Home Screenshot)* | *(Add Modal Screenshot)* |
+| ![App Screenshot](https://github.com/nodist/assets/screens/screen-shot-1.jpeg) | *(Add Home Screenshot)* | *(Add Modal Screenshot)* |
 
 ---
 
