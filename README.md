@@ -4,11 +4,15 @@
 
 ---
 
-## 📸 Preview
+## 📸 App Preview
 
-| Splash Sequence | Workspace & Metrics | Task Input |
-|---|---|---|
-| ![App Screenshot](https://github.com/nodist/assets/screens/screen-shot-1.jpeg) | *(Add Home Screenshot)* | *(Add Modal Screenshot)* |
+<p align="center">
+   <img src="./assets/screens/screen-shot-1.jpeg" width="100" alt="Nodist Workspace" />
+   <img src="./assets/screens/screen-shot-2.jpeg" width="100" alt="Nodist Workspace" />
+   <img src="./assets/screens/screen-shot-3.jpeg" width="100" alt="Nodist Workspace" />
+   <img src="./assets/screens/screen-shot-4.jpeg" width="100" alt="Nodist Workspace" />
+   <img src="./assets/screens/screen-shot-5.jpeg" width="100" alt="Nodist Workspace" />
+</p>
 
 ---
 
@@ -45,5 +49,5 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/nodist.git](https://github.com/your-username/nodist.git)
+   git clone [https://github.com/K-Moeti/nodist.git]
    cd nodist
